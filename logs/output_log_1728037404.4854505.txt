@@ -1,0 +1,15 @@
+Image: frame_0.png, Detected Number: 00219
+Image: frame_1.png, Detected Number: 00216
+Image: frame_10.png, Detected Number: 00229
+Image: frame_11.png, Detected Number: 00226
+Image: frame_12.png, Detected Number: 00227
+Image: frame_13.png, Detected Number: 00228
+Image: frame_14.png, Detected Number: 00229
+Image: frame_15.png, Detected Number: 00230
+Image: frame_16.png, Detected Number: 00231
+Image: frame_17.png, Detected Number: 00232
+Image: frame_18.png, Detected Number: 00233
+Image: frame_19.png, Detected Number: 00234
+Image: frame_2.png, Detected Number: 00217
+Image: frame_20.png, Detected Number: 00239
+Image: frame_21.png, Detected Number: 00236

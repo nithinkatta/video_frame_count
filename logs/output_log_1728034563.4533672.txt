@@ -1,0 +1,7 @@
+Image: frame_0.png, Detected Number: 00215
+Image: frame_1.png, Detected Number: 00216
+Image: frame_10.png, Detected Number: 00225
+Image: frame_11.png, Detected Number: 00226
+Image: frame_12.png, Detected Number: 00227
+Image: frame_13.png, Detected Number: 00228
+Image: frame_14.png, Detected Number: 00229
