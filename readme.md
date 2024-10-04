@@ -1,4 +1,4 @@
-MISSING FRAME DETECTION
+<h2>MISSING FRAME DETECTION</h2>
 
 # Essentials
 1) Ensure the video is present in the assets directory
@@ -6,6 +6,6 @@ MISSING FRAME DETECTION
 
 # How to RUN
 1) install all the required packages
-    pip install -r requirements.txt
+    <i>pip install -r requirements.txt </i>
 2) run ssim.py
-    python ssim.py
+    <i> python ssim.py </i>
